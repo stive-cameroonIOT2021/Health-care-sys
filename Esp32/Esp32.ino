@@ -3,7 +3,6 @@
 #include <Adafruit_MLX90614.h>
 #include <WiFi.h>
 #include <WebServer.h>
-#include <WebServer1.h>
 
 // WiFi credentials
 const char *ssid = "ESP32-AP";
