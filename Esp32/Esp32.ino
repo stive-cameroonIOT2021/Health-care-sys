@@ -2,6 +2,7 @@
 #include "MAX30100_PulseOximeter.h"
 #include <Adafruit_MLX90614.h>
 #include <WiFi.h>
+#include <WebServer.h>
 
 // WiFi credentials
 const char *ssid = "ESP32-AP";
